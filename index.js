@@ -18,6 +18,6 @@ class Dinner{
     this.salad=salad;
     this.soup=soup;
     this.entree=entree;
-    this.deseert=deseert;
+    this._deseert=deseert;
   }
 }
